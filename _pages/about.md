@@ -65,10 +65,12 @@ Submitted on arXiv, September 2023
 
 # 💻 Projects
 
-### [LLM Agent](https://github.com/aiwaves-cn/agents) *2023.6–2023.8*  
+### [LLM Agent](https://github.com/aiwaves-cn/agents) 
+*2023.6–2023.8*  
 Agents: An Open-source Framework for Autonomous Language Agents
 
-### [CourseCommunity](https://github.com/StephenQSstarThomas/CourseCommunity) *2024.3–Present*  
+### [CourseCommunity](https://github.com/StephenQSstarThomas/CourseCommunity) 
+*2024.3–Present*  
 CourseCommunity: An open-source, all-for-free platform providing university course notes and self-study guides.
 
 ---
