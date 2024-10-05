@@ -39,10 +39,11 @@ Submitted on arXiv, September 2023
 
 # 📖 Education
 
-<img src="../images/pku.png" alt="pku" style="zoom:20%; float: left" />&emsp; [Peking University](https://english.pku.edu.cn/)    
-&emsp; *School of Physics & School of Electronics Engineering and Computer Science*. *2022.9–Present*   <span style="float: right;">**GPA: 3.58/4.0**</span>
-<img src="../images/fdu.png" alt="fdu" style="zoom:20%; float: left" />&emsp; [Fudan University](https://www.fudan.edu.cn/en/)    
-&emsp; Undergraduate student in Computer Science and Technology. *2021.09 - now* <span style="float: right;">**GPA: 3.52/4**</span>
+**Peking University**  
+*Beijing, China*  
+*School of Physics & School of Electronics Engineering and Computer Science*  
+*2022--*  
+- Overall GPA: 3.58/4.0  
 
 ---
 
