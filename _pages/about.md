@@ -103,7 +103,7 @@ CourseCommunity: An open-source, all-for-free platform providing university cour
 - 🎮 **Games**  
   - **Clash Royale**  
     - Achieved Ladder rank #29 and Tournament rank #46 on the Chinese Server. Reached #1 using Evo RG, detailed in this [video](https://www.bilibili.com/video/BV1CS411K7nU).  
-    - Team effort resulted in 3rd place in the Clash Royale Chinese University League (CRCUL) alongside Yikai Zhu, Hao Chen, Shibing Zhou, Luotian Yang, Yiming Liu, Haoxu Zhang, and others.  
+    - Team effort resulted in 3rd place in the Clash Royale Chinese University League (CRCUL) alongside Yikai Zhu, Hao Chen, Shibin Zhou, Luotian Yang, Yiming Liu, Haoxu Zhang, and others.  
     <br>
     <img src="../images/CR_1.jpg" style="width: 40%;">
     <br>
@@ -122,4 +122,4 @@ CourseCommunity: An open-source, all-for-free platform providing university cour
 - 🎣 **Fishing**  
   - Enjoys fishing during leisure time.  
   <br>
-  <img src="../images/fish.jpg" style="width: 40%;">
+  <img src="../images/Fish.jpg" style="width: 40%;">
