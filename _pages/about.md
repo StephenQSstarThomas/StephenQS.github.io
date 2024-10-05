@@ -84,7 +84,7 @@ CourseCommunity: An open-source, all-for-free platform providing university cour
 # ⚽ Extracurricular Activities & Interests
 
 - 🏆 **President of the Peking University Jump-Rope Team**  
-  - **Achievements:** Led the team to 29th place in the National Online Jump Rope Competition and secured 3rd place in the Beijing Jump Rope Competition. 
+  - **Achievements:** Reached 29th place in the National Online Jump Rope Competition and secured 3rd place in the Beijing Jump Rope Competition. 
   
 - 🏸 **Member of the Badminton Team**  
   - **Achievements:** Contributed to the team's 3rd place victory in the Beijing University Cup Badminton Team Competition.
@@ -106,7 +106,7 @@ CourseCommunity: An open-source, all-for-free platform providing university cour
   <br>
 - 🎮 **Games**  
   - **Clash Royale**  
-    - Achieved Ladder rank #29 and Tournament rank #46 on the Chinese Server. Reached #1 using Evo RG, detailed in this [video](https://www.bilibili.com/video/BV1CS411K7nU).  
+    - Achieved Ladder rank #31 and Tournament rank #46 on the Chinese Server. Reached #1 using Evo RG, detailed in this [video](https://www.bilibili.com/video/BV1CS411K7nU).  
     - Team effort resulted in 3rd place in the Clash Royale Chinese University League (CRCUL) alongside Yikai Zhu, Hao Chen, Shibin Zhou, Luotian Yang, Yiming Liu, Haoxu Zhang, and others.  
     <br>
     <img src="../images/CR_1.jpg" style="width: 40%;">
