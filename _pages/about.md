@@ -7,52 +7,95 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Shi Qiu
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+📧 Email: 2200011630@stu.pku.edu.cn  
+🌐 Homepage: [GitHub](https://github.com/StephenQSstarThomas)
 
-<span class='anchor' id='about-me'></span>
+---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+## Education
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+**Peking University**  
+*Beijing, China*  
+*School of Physics & School of Electronics Engineering and Computer Science*  
+*2022--*  
+- Overall GPA: 3.58/4.0  
+
+---
+
+## Honors
+
+- 🏅 Shu Qi Scholarship (top 5%) - 2023  
+- 🏆 Youth Award for Athletics (Physics Major Representative) - 2023
+- 🥇 Excellence in Research Award - 2024 
+
+---
+
+## Research Interests
+
+**NLP (LLM Hallucination & NLG Evaluation)**  
+**Benchmark for Text-and-Image Generation**
+
+---
+
+## Publications
+
+[1] Agents: An Open-source Framework for Autonomous Language Agents  
+Wangchunshu Zhou, Yuchen Eleanor Jiang, Long Li Jialong Wu, Shi Qiu, etc.  
+Submitted on arXiv, September 2023  
+[Link to paper](https://arxiv.org/abs/2309.07870)
+
+---
+
+## Research Experience
+
+**Undergraduate Research Program** (sorted by time)
+
+- **CUPT Competition** 2023.3–5  
+  - Third Prize in the CUPT (China Undergraduate Physics Tournament) School Competition, as one of the Main Speakers in the team.
+
+- **Summer Internship at AIWaves** 2023.6–8  
+  - Contributed to the development of the underlying code for an intelligent agent (AI-Agent) and co-authored a paper. Received 5k stars on GitHub.  
+  - [Project Link](https://github.com/aiwaves-cn/agents)
+
+- **Summer Internship at UNC** 2024.6–8  
+  - Worked with Prof. Huaxiu Yao at the Department of Computer Science, UNC-Chapel Hill, as an assistant researcher. Contributed to multiple projects.
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
 
-# 📝 Publications 
+## Skills
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Programming:** Python, LaTeX, Markdown
+- **English:** TOEFL 112, CET-6 696, several interns in US with considerable proficiency in English
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+---
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+## Selected Courses
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+**Attended Courses**
+- Introduction to Artificial Intelligence
+- Data Structure and Algorithm (with Python)
+- Introduction to Computation (with Python)
+- Linear Algebra
+- Advanced Mathematics
+- Methods of Mathematical Physics (including PDE)
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+**Audited Courses**
+- Fundamentals of NLP
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+---
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## Extracurricular Activities & Interests
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- Chairman of President of the Peking University Jump-Rope Team; Achievements include: 29th place in the National Online Jump Rope Competition, and third place in the Beijing Jump Rope Competition.
+- Member of the Badminton Team; Achieved third place in the Beijing University Cup Badminton Team Competition.
+- Class Monitor of Class 8 in the 22nd Undergraduate Cohort.
+- Key Member of the Beijing University Blockchain Association
+---
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+---
+
+
