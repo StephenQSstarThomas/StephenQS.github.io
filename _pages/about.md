@@ -1,12 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 # Shi Qiu
 
 📧 Email: 2200011630@stu.pku.edu.cn  
