@@ -100,6 +100,6 @@ CourseCommunity: An open-source, all-for-free platform providing university cour
 
 - 🎮 **Games**  
   - **Clash Royale**  
-    - Chinese Server: Ladder rank #29, Tournament rank #46. Reached #1 with Evo RG [video](https://www.bilibili.com/video/BV1CS411K7nU)
+    - Chinese Server: Ladder rank #29, Tournament rank #46. Reached #1 with Evo RG, see [video](https://www.bilibili.com/video/BV1CS411K7nU) for details.
   - **Battle of Balls**  
     - Ladder rank #7 in Zhejiang Province, 2018.7
