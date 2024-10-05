@@ -100,7 +100,7 @@ CourseCommunity: An open-source, all-for-free platform providing university cour
 - 📸 **Photography**  
   - Collaborated with Mengshu Yu and Dannni Luo to create a unique series of self-made postcards, available at [Postcard](https://github.com/StephenQSstarThomas/Postcards).
   <br>
-  <img src="https://github.com/StephenQSstarThomas/Postcards/blob/main/Cache_-3d17085b9d1d66c7.jpg" style="width: 40%;">
+  <img src="https://github.com/StephenQSstarThomas/Postcards/blob/main/Cache_-3d17085b9d1d66c7.jpg" style="width: 60%;">
   <br>
 - 🎮 **Games**  
   - **Clash Royale**  
