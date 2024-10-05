@@ -101,7 +101,7 @@ CourseCommunity: An open-source, all-for-free platform providing university cour
   - Collaborated with Mengshu Yu and Dannni Luo to create a unique series of self-made postcards, available at [Postcard](https://github.com/StephenQSstarThomas/Postcards).
   <br>
   <img src="[../images/Fish.jpg](https://github.com/StephenQSstarThomas/Postcards/blob/main/Cache_-3d17085b9d1d66c7.jpg)" style="width: 40%;">
-
+  <br>
 - 🎮 **Games**  
   - **Clash Royale**  
     - Achieved Ladder rank #29 and Tournament rank #46 on the Chinese Server. Reached #1 using Evo RG, detailed in this [video](https://www.bilibili.com/video/BV1CS411K7nU).  
