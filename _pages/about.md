@@ -42,6 +42,7 @@ I've also been collaborating with [Prof. Zeyu Zheng](https://zheng80.github.io/)
 
 - Email: [stephenshiqiu@gmail.com](mailto:stephenshiqiu@gmail.com)
 - GitHub: [StephenQSstarThomas](https://github.com/StephenQSstarThomas)
+- alphaXiv: [@shi-qiu](https://www.alphaxiv.org/@shi-qiu)
 - Google Scholar: [Shi Qiu](https://scholar.google.com/citations?user=wScRGY8AAAAJ)
 - X: [@StephenQS0710](https://x.com/StephenQS0710)
 - Hugging Face: [StarThomas1002](https://huggingface.co/StarThomas1002)
